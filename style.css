@@ -1,0 +1,34 @@
+body{
+    font-family: 'STIX Two Math', serif;
+    margin: 0;
+}
+section{
+    display: flex;
+}
+h1{
+    font-size: 50px;
+    color: gray;
+}
+.blue{
+    color:blueviolet ;
+}
+.button{
+    text-decoration: none;
+}
+.half-width img{
+    width: 60%;
+    margin-left: 30%;
+}
+.half-width{
+    margin-left: 10px;
+    padding: 5%;
+}
+.half-width p{
+font-size:20px ;
+}
+.button{
+    background-image: linear-gradient(blue,skyblue);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
