@@ -26,9 +26,59 @@ h1{
 .half-width p{
 font-size:20px ;
 }
+.body-sec{
+    background-image: url(images/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+}
+.images img{
+    width: 20%;
+    margin-left: 10%;
+}
 .button{
     background-image: linear-gradient(blue,skyblue);
     color: white;
     padding: 10px;
     border-radius: 5px;
+}
+.about {
+    text-align: justify;
+    margin-right: 10%;
+}
+.head{
+    text-align: center;
+}
+
+.box img{
+    width: 80%;
+    margin: 5%;
+}
+.box{
+    width: 300px;
+    margin-left: 5%;
+    box-sizing: border-box;
+    box-shadow: 6px 10px 12px gray;
+    border-radius: 5%;
+}
+.body{
+    padding: 5px;
+}
+.body h2{
+    text-align: center;
+}
+.body p{
+    padding: 2px;
+}
+#recipie{
+    margin-left: 15%;
+}
+footer{
+    background-color: black;
+    color: gray;
+    text-align: center;
+    margin-top: 5%;
+    padding: 5%;
+    width: 100%;
+}
+footer p{
+    color: white;
 }
